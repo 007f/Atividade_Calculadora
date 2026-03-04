@@ -40,4 +40,5 @@ que se encontra no Display, imediatamente na sua seleção.
 
 Prototipagem:  
 
-
+![alt text](Prints/Prototipo_Raiz_ativa.jpg)
+![alt text](Prints/Prototipo_Raiz_inativa.png)
