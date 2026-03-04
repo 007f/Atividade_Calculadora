@@ -1,20 +1,19 @@
 # Calculadora React Native WEB/Mobile
 
 Objetivo Geral:
-Desenvolver uma calculadora touchscreen para aplicações Mobile e Web, utilizando react
-native,
+Desenvolver uma calculadora basica touchscreen para aplicações Mobile e Web, utilizando react native.  
 Regras de Negocio (RN):
-RN-01 - Disponibilidade de teclado numérico: a calculadora deve disponibilizar um
+RN-01 - Disponibilidade de teclado numérico: a calculadora deve disponibilizar um  
 teclado numérico na tela composto de botões para o usuário selecionar via clique/toque.
-RN-02 - Apresentação de Seleção: Todo número selecionado deve aparecer em uma tela
-específica concatenado com valores anteriormente selecionados
-RN-03 - Operações matemáticas: A calculadora deve disponibilizar as 4 operações
+RN-02 - Apresentação de Seleção: Todo número selecionado deve aparecer em uma tela  
+específica concatenado com valores anteriormente selecionados.
+RN-03 - Operações matemáticas: A calculadora deve disponibilizar as 4 operações  
 matemáticas básicas (+, -, *, /) para o usuário.
-RN-04 - Solicitação de cálculo: A calculadora deve disponibilizar um botão de calculo para
+RN-04 - Solicitação de cálculo: A calculadora deve disponibilizar um botão de calculo para  
 o usuário efetuar a operação.
-RN-05 - Apresentação de Resultado: A calculadora deve apresentar na mesma tela de
+RN-05 - Apresentação de Resultado: A calculadora deve apresentar na mesma tela de  
 Seleção o Resultado do cálculo após a solicitação.
-RN-06 - Solicitação para apagar: A calculadora deve apresentar um botão que apague o
+RN-06 - Solicitação para apagar: A calculadora deve apresentar um botão que apague o  
 último número selecionado da tela de apresentação e todo o valor de Resultado.
 
 Requisitos Funcionais (RF)
